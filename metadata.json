@@ -1,0 +1,6 @@
+{
+  "name": "JobTrack",
+  "description": "Personal job application tracker with Kanban board, interview calendar, contacts, notes, documents, and offers management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
